@@ -1,0 +1,5 @@
+. comment starts with (.) symbol
+0 a 0 b R
+0 b 1 a R
+1 a 1 a Y
+1 b 1 b N
